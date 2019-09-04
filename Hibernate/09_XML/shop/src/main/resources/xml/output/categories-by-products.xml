@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+    <category category="Drugs">
+        <products-count>82</products-count>
+        <average-price>818.55</average-price>
+        <total-revenue>67121.84</total-revenue>
+    </category>
+    <category category="Adult">
+        <products-count>85</products-count>
+        <average-price>800.73</average-price>
+        <total-revenue>68062.15</total-revenue>
+    </category>
+    <category category="Electronics">
+        <products-count>77</products-count>
+        <average-price>752.29</average-price>
+        <total-revenue>57926.71</total-revenue>
+    </category>
+    <category category="Garden">
+        <products-count>78</products-count>
+        <average-price>829.55</average-price>
+        <total-revenue>64705.04</total-revenue>
+    </category>
+    <category category="Weapons">
+        <products-count>76</products-count>
+        <average-price>760.12</average-price>
+        <total-revenue>57769.26</total-revenue>
+    </category>
+    <category category="For Children">
+        <products-count>77</products-count>
+        <average-price>725.69</average-price>
+        <total-revenue>55878.74</total-revenue>
+    </category>
+    <category category="Sports">
+        <products-count>87</products-count>
+        <average-price>740.56</average-price>
+        <total-revenue>64428.86</total-revenue>
+    </category>
+    <category category="Fashion">
+        <products-count>71</products-count>
+        <average-price>750.83</average-price>
+        <total-revenue>53309.56</total-revenue>
+    </category>
+    <category category="Autoparts">
+        <products-count>78</products-count>
+        <average-price>803.37</average-price>
+        <total-revenue>62663.00</total-revenue>
+    </category>
+    <category category="Business">
+        <products-count>77</products-count>
+        <average-price>722.24</average-price>
+        <total-revenue>55612.81</total-revenue>
+    </category>
+    <category category="Other">
+        <products-count>0</products-count>
+        <total-revenue>0</total-revenue>
+    </category>
+</categories>

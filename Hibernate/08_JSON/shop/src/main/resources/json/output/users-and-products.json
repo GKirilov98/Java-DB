@@ -1,0 +1,551 @@
+{
+  "usersCount": 33,
+  "users": [
+    {
+      "firstName": "Eugene",
+      "lastName": "Stewart",
+      "age": 65,
+      "soldProducts": {
+        "count": 3,
+        "products": [
+          {
+            "name": "CALMING DIAPER RASH",
+            "price": 700.92
+          },
+          {
+            "name": "IOPE RETIGEN MOISTURE TWIN CAKE NO.21",
+            "price": 1257.71
+          },
+          {
+            "name": "Stila Hydrating Primer Oil-Free SPF 30",
+            "price": 179.28
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Clarence",
+      "lastName": "Fowler",
+      "age": 50,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Benazepril Hydrochloride and Hydrochlorothiazide",
+            "price": 1187.27
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Clark",
+      "age": 41,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "EPZICOM",
+            "price": 895.65
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Carl",
+      "lastName": "Daniels",
+      "age": 59,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Smooth texture Orange flavor",
+            "price": 976.65
+          },
+          {
+            "name": "Yellow Jacket hymenoptera venom Venomil Diagnostic",
+            "price": 23.58
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Carl",
+      "lastName": "Lawson",
+      "age": 19,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "ANXIETY/STRESS RELIEF",
+            "price": 324.66
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Gary",
+      "lastName": "Stevens",
+      "age": 0,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Prednisone",
+            "price": 550.72
+          },
+          {
+            "name": "Hydralazine Hydrochloride",
+            "price": 1309.72
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Brenda",
+      "lastName": "Howell",
+      "age": 75,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Prednisone",
+            "price": 1285.99
+          }
+        ]
+      }
+    },
+    {
+      "firstName": null,
+      "lastName": "Schmidt",
+      "age": 70,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "ISOPROPYL ALCOHOL",
+            "price": 339.48
+          },
+          {
+            "name": "Lorazepam",
+            "price": 1134.96
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Brandon",
+      "lastName": "Fuller",
+      "age": 30,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "PREMIER VALUE ALLERGY",
+            "price": 1127.61
+          },
+          {
+            "name": "allergy eye",
+            "price": 426.91
+          }
+        ]
+      }
+    },
+    {
+      "firstName": null,
+      "lastName": "Moreno",
+      "age": 37,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "equaline",
+            "price": 520.45
+          },
+          {
+            "name": "Acetic Acid",
+            "price": 1060.43
+          }
+        ]
+      }
+    },
+    {
+      "firstName": null,
+      "lastName": "Peterson",
+      "age": 72,
+      "soldProducts": {
+        "count": 3,
+        "products": [
+          {
+            "name": "Warfarin Sodium",
+            "price": 770.05
+          },
+          {
+            "name": "Labetalol hydrochloride",
+            "price": 436.38
+          },
+          {
+            "name": "Warfarin Sodium",
+            "price": 138.83
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Patrick",
+      "lastName": "King",
+      "age": 0,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Alcohol Free Antiseptic",
+            "price": 1486.07
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Rachel",
+      "lastName": "Johnson",
+      "age": 24,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "MOIST MOISTURE SKIN TONER",
+            "price": 152.43
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Riley",
+      "age": 74,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Alternaria alternata",
+            "price": 61.24
+          },
+          {
+            "name": "olio activ mouthwash",
+            "price": 206.06
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Gloria",
+      "lastName": "Alexander",
+      "age": 61,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Nevirapine",
+            "price": 1374.72
+          },
+          {
+            "name": "PredniSONE",
+            "price": 286.43
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "Harris",
+      "age": 43,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Agaricus Equisetum Special Order",
+            "price": 585.93
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "Martinez",
+      "age": 28,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Clarins Paris Skin Illusion - 114 cappuccino",
+            "price": 811.42
+          }
+        ]
+      }
+    },
+    {
+      "firstName": null,
+      "lastName": "Baker",
+      "age": 0,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "kirkland signature minoxidil",
+            "price": 49.17
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Patricia",
+      "lastName": "Cooper",
+      "age": 72,
+      "soldProducts": {
+        "count": 3,
+        "products": [
+          {
+            "name": "ENBREL",
+            "price": 673.97
+          },
+          {
+            "name": "Peter Island Continous sunscreen kids",
+            "price": 471.30
+          },
+          {
+            "name": "Ringers",
+            "price": 1054.37
+          }
+        ]
+      }
+    },
+    {
+      "firstName": null,
+      "lastName": "Thompson",
+      "age": 46,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Glipizide",
+            "price": 621.78
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Day",
+      "age": 33,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Effervescent Cold Relief",
+            "price": 1436.07
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Amanda",
+      "lastName": "Frazier",
+      "age": 0,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "CD CAPTURE TOTALE Triple Correcting Serum Foundation Wrinkles-Dark Spots-Radiance with sunscreen Broad Spectrum SPF 25 010",
+            "price": 77.23
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Joshua",
+      "lastName": "Murray",
+      "age": 41,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Spironolactone",
+            "price": 933.69
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Harvey",
+      "age": 46,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Childrens Allegra Allergy",
+            "price": 650.97
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Billy",
+      "lastName": "Parker",
+      "age": 68,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "AMARANTHUS PALMERI POLLEN",
+            "price": 623.16
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Jeremy",
+      "lastName": "Woods",
+      "age": 20,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Carbon Dioxide Oxygen Mixture",
+            "price": 95.49
+          },
+          {
+            "name": "Americaine",
+            "price": 1165.75
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Christine",
+      "lastName": "Gomez",
+      "age": 28,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "TERSI",
+            "price": 554.91
+          },
+          {
+            "name": "Topical 60 Sec Sodium Fluoride",
+            "price": 1228.84
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Rodriguez",
+      "age": 0,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "XANTHIUM STRUMARIUM VAR CANADENSE POLLEN",
+            "price": 1091.38
+          },
+          {
+            "name": "SEPHORA Acne-Fighting Mattifying Moisturizer",
+            "price": 1019.28
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Kathy",
+      "lastName": "Gilbert",
+      "age": 51,
+      "soldProducts": {
+        "count": 3,
+        "products": [
+          {
+            "name": "Prostate",
+            "price": 716.05
+          },
+          {
+            "name": "Ranitidine",
+            "price": 926.64
+          },
+          {
+            "name": "ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20",
+            "price": 1097.60
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Fred",
+      "lastName": "Barnes",
+      "age": 0,
+      "soldProducts": {
+        "count": 1,
+        "products": [
+          {
+            "name": "Burn Jel",
+            "price": 209.57
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Bonnie",
+      "lastName": "Fox",
+      "age": 18,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Gemcitabine",
+            "price": 594.79
+          },
+          {
+            "name": "TYLENOL COLD MULTI-SYMPTOM DAYTIME",
+            "price": 1010.81
+          }
+        ]
+      }
+    },
+    {
+      "firstName": null,
+      "lastName": "Cunningham",
+      "age": 0,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Strattera",
+            "price": 658.54
+          },
+          {
+            "name": "GEMCITABINE",
+            "price": 1468.11
+          }
+        ]
+      }
+    },
+    {
+      "firstName": "Wanda",
+      "lastName": "Harris",
+      "age": 26,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Pollens - Weeds and Garden Plants, Scotch Broom Cytisus scoparius",
+            "price": 135.82
+          },
+          {
+            "name": "Leg Cramp Relief",
+            "price": 1345.69
+          }
+        ]
+      }
+    }
+  ]
+}
